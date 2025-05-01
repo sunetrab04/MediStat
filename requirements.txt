@@ -1,0 +1,10 @@
+Requirements
+Python 3.8+ with:
+
+Streamlit
+
+Pandas
+
+Matplotlib
+
+ReportLab
